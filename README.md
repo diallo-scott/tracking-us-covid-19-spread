@@ -27,6 +27,8 @@ This animation show the number of cumulative cases:
 
 This animation shows the number of cumulative deaths:
 
+![covid deaths](https://github.com/diallo-scott/tracking-us-covid-19-spread/blob/master/Covid%20deaths.gif)
+
 
 
 ## Business Answer
