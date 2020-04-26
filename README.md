@@ -14,3 +14,8 @@ We'll use data from the following sources for our analysis:
 • [New York Times COVID-19 Data](https://github.com/nytimes/covid-19-data/blob/master/us-counties.csv)
 
 • [US County Geospatial Data](https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json)
+
+## Data Answer
+We are able to create a bubble map, where the size of the bubbles is the number of confirmed cases in a county.  This map is great at showing us where the hotspots are, because we can quickly identify those regions that have large bubbles.  This map is displayed below.
+
+This is not sufficient, however, when trying to analyze the impact of covid-19 on a community since the data is not standardized.  The map only shows us what is intuitive– larger cities have larger numbers of confirmed cases.  To understand the impact on a county we need to better show how that county is being affected, given the difference in its population relative to other cities.  We would also 
