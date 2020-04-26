@@ -9,6 +9,8 @@ Using plotly express we can build an animated choropleth map to demostrate the n
 
 We'll use data from the following sources for our analysis:
 
-JHU CSSE COVID-19 Case Data
-New York Times COVID-19 Data
-US County Geospatial Data
+• [JHU CSSE COVID-19 Case Data](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)
+
+• [New York Times COVID-19 Data](https://github.com/nytimes/covid-19-data/blob/master/us-counties.csv)
+
+• [US County Geospatial Data](https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json)
